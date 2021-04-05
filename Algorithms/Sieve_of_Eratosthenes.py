@@ -7,7 +7,7 @@ def SieveOfEratosthenes(n):
     arr = [True] * (n+1)
     arr[0] = arr[1] = False
     i = 2
-    while i*i < n: #We have to run the loop till root n times
+    while i*i <= n: #We have to run the loop till root n times
         if arr[i] == False:
             pass
         else:
@@ -17,7 +17,7 @@ def SieveOfEratosthenes(n):
         i+=1
     return arr
 if __name__ == '__main__':
-    n = 30
+    n = 36
     arr = SieveOfEratosthenes(n)
     for i in range(1,len(arr)):
         mark = "Not Prime"
