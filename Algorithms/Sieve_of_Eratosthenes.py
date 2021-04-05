@@ -7,10 +7,13 @@ def SieveOfEratosthenes(n):
     arr = [True] * (n+1)
     arr[0] = arr[1] = False
     i = 2
-    while i*i < n:
-        for j in range(2*i,len(arr)):
-            if j%i == 0:
-                arr[j] = False
+    while i*i < n: #We have to run the loop till root n times
+        if arr[i] == False:
+            pass
+        else:
+            for j in range(2*i,len(arr)):
+                if j%i == 0:
+                    arr[j] = False
         i+=1
     return arr
 if __name__ == '__main__':
