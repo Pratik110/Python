@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cbeb722-ce7f-4609-ad51-f1fba1fdcd4d" name="Default Changelist" comment="Code Complete">
-      <change afterPath="$PROJECT_DIR$/Array/Sort_Arrays_Of_0_1_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting_Algorithms/Quick_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting_Algorithms/Bubble_Sort_Excercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting_Algorithms/Bubble_Sort_Excercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Dutch_National_Flag_Algorithm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617848629952</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Code Complete">
+      <created>1617985903006</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617985903006</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
