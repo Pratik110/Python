@@ -12,7 +12,7 @@ Example_2 = "Input: nums = [5,4,-1,7,8]'" \
 
 nums = [-2,1,-3,4,-1,2,1,-5,4]
 # Approach 1
-# Brute Force solution in BigO(n3)
+# Brute Force solution in BigO(n^3)
 class Solution1:
     def maxSubArray(self, nums):
         maxm = 0
@@ -29,6 +29,36 @@ class Solution1:
         for i in array:
             s+=i
         return s
-
-
 print(Solution1().maxSubArray(nums))
+
+# Approach 2
+# Optimization of the Brute Force solution by reducing
+# the time complexity to BigO(n^2) from BigO(n^3)
+class Solution2:
+    def maxSubArray(self,nums):
+        maxm = 0
+        l = len(nums)
+        for i in range(l):
+            s = 0
+            for j in range(i,l):
+                s+=nums[j]
+                if s>maxm:
+                    maxm = s
+        return maxm
+print(Solution2().maxSubArray(nums))
+
+# Approach 3
+# Solving the problem using Kadane's Algorithm which reduces the time complexity to BigO(n)
+class Solution3:
+    def maxSubArray(self,nums):
+        currSum = nums[0]
+        maxSum = 0
+        l = len(nums)
+        for i in range(1,l):
+            currSum+=nums[i]
+            if currSum > maxSum:
+                maxSum = currSum
+            if currSum < 0:
+                currSum = 0
+        return  maxSum
+print(Solution3().maxSubArray(nums))
