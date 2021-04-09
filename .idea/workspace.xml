@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cbeb722-ce7f-4609-ad51-f1fba1fdcd4d" name="Default Changelist" comment="Code Complete">
-      <change afterPath="$PROJECT_DIR$/Sorting_Algorithms/Bubble_Sort_Excercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting_Algorithms/Merge_Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Sort_Arrays_Of_0_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Algorithms/Quick_Sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting_Algorithms/Bubble_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting_Algorithms/Bubble_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting_Algorithms/Bubble_Sort_Excercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting_Algorithms/Bubble_Sort_Excercise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +42,9 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -52,7 +53,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Bubble_Sort">
+  <component name="RunManager" selected="Python.Sort_Arrays_Of_0_1_2">
     <configuration name="Bubble_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,19 +75,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Euclid_GCD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
+    <configuration name="Bubble_Sort_Excercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\PRATIK\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/Euclid_GCD.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Algorithms/Bubble_Sort_Excercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,19 +117,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Trailing_Zeroes_In_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Sort_Arrays_Of_0_1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\PRATIK\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mathematics/Trailing_Zeroes_In_Factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Sort_Arrays_Of_0_1_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,18 +204,18 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.Bubble_Sort" />
-      <item itemvalue="Python.Euclid_GCD" />
       <item itemvalue="Python.Merge_Sort" />
-      <item itemvalue="Python.Trailing_Zeroes_In_Factorial" />
       <item itemvalue="Python.xyz" />
+      <item itemvalue="Python.Bubble_Sort_Excercise" />
+      <item itemvalue="Python.Sort_Arrays_Of_0_1_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sort_Arrays_Of_0_1_2" />
         <item itemvalue="Python.Bubble_Sort" />
+        <item itemvalue="Python.Bubble_Sort_Excercise" />
         <item itemvalue="Python.xyz" />
         <item itemvalue="Python.Merge_Sort" />
-        <item itemvalue="Python.Trailing_Zeroes_In_Factorial" />
-        <item itemvalue="Python.Euclid_GCD" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617847368754</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Code Complete">
+      <created>1617848629952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617848629952</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
