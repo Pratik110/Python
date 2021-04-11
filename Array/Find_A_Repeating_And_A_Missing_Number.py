@@ -9,7 +9,7 @@ Examples = "Input: arr[] = {3, 1, 3}" \
            "Input: arr[] = {4, 3, 6, 2, 1, 1}" \
            "Output: Missing = 5, Repeating = 1"
 
-nums = [1, 2, 4, 5 , 5, 3, 6,7]
+nums = [1, 2, 4, 5, 5, 3, 6, 7]
 # Approach 1
 #Brute force approach using element count
 class Solution1:
