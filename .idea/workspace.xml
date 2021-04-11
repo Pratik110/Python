@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cbeb722-ce7f-4609-ad51-f1fba1fdcd4d" name="Default Changelist" comment="Code Complete">
-      <change afterPath="$PROJECT_DIR$/Array/Find_A_Repeating_And_A_Missing_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Max_Sum_Sub_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Gap_Algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Merge_Sorted_Arrays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Kadane's_Algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Kadane's_Algorithm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Find_A_Repeating_And_A_Missing_Number">
+  <component name="RunManager" selected="Python.Merge_Sorted_Arrays">
     <configuration name="Euclid_GCD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sort_Arrays_Of_0_1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Merge_Sorted_Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -150,7 +149,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Sort_Arrays_Of_0_1_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Merge_Sorted_Arrays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,19 +202,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.Sort_Arrays_Of_0_1_2" />
       <item itemvalue="Python.Euclid_GCD" />
       <item itemvalue="Python.Kadane's_Algorithm" />
       <item itemvalue="Python.Max_Sum_Sub_Array" />
       <item itemvalue="Python.Find_A_Repeating_And_A_Missing_Number" />
+      <item itemvalue="Python.Merge_Sorted_Arrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Merge_Sorted_Arrays" />
         <item itemvalue="Python.Find_A_Repeating_And_A_Missing_Number" />
         <item itemvalue="Python.Max_Sum_Sub_Array" />
         <item itemvalue="Python.Kadane's_Algorithm" />
         <item itemvalue="Python.Euclid_GCD" />
-        <item itemvalue="Python.Sort_Arrays_Of_0_1_2" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617994597784</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Code Complete">
+      <created>1618081405667</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1618081405667</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
