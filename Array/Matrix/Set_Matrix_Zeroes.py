@@ -10,7 +10,7 @@ matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
 class Solution:
     def setZeroes(self,matrix):
         m = len(matrix)
-        n = len(matrix[0])
+        n = len(matrix[0])Matrix
         rowMatrix = [""]*m
         colMatrix = [""]*n
         for i in range(m):
