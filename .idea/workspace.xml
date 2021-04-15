@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cbeb722-ce7f-4609-ad51-f1fba1fdcd4d" name="Default Changelist" comment="Code Complete">
-      <change afterPath="$PROJECT_DIR$/Array/Next_Permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rough_Work/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Count_Inversions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Stock_Buy_Sell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Subarray_With_Given_Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -52,8 +53,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Next_Permutation">
-    <configuration name="Find_A_Repeating_And_A_Missing_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Stock_Buy_Sell">
+    <configuration name="Count_Inversions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -65,7 +66,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Find_A_Repeating_And_A_Missing_Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Count_Inversions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Rotate_Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Stock_Buy_Sell" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -107,7 +108,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Matrix/Rotate_Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Stock_Buy_Sell.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Set_Matrix_Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Subarray_With_Given_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -128,7 +129,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Matrix/Set_Matrix_Zeroes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Subarray_With_Given_Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,19 +203,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.Set_Matrix_Zeroes" />
-      <item itemvalue="Python.Find_A_Repeating_And_A_Missing_Number" />
-      <item itemvalue="Python.Rotate_Matrix" />
       <item itemvalue="Python.Next_Permutation" />
       <item itemvalue="Python.Test" />
+      <item itemvalue="Python.Count_Inversions" />
+      <item itemvalue="Python.Subarray_With_Given_Sum" />
+      <item itemvalue="Python.Stock_Buy_Sell" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Stock_Buy_Sell" />
+        <item itemvalue="Python.Subarray_With_Given_Sum" />
+        <item itemvalue="Python.Count_Inversions" />
         <item itemvalue="Python.Next_Permutation" />
         <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Rotate_Matrix" />
-        <item itemvalue="Python.Find_A_Repeating_And_A_Missing_Number" />
-        <item itemvalue="Python.Set_Matrix_Zeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618247543920</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Code Complete">
+      <created>1618447159491</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1618447159491</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
