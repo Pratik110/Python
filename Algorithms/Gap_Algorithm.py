@@ -16,7 +16,6 @@ import math
 class Solution:
     def mergeSortedArray(self,ar1,ar2):
         l1 = len(ar1)
-        l2 = len(ar2)
         ar1+=ar2
         l = len(ar1)
         gap = math.ceil(l/2)

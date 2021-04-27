@@ -4,7 +4,7 @@ Description = "Given an array of distinct integers. The task is to count all" \
 Example = "N = 4" \
           "arr[] = {1, 5, 3, 2}" \
           "Output: 2" \
-          "Explanation: There are 2 triplets: 1 + 2 = 3 and 3 +2 = 5 "
+          "Explanation: There are 2 triplets: 1 + 2 = 3 and 3 +2 = 5"
 arr = [1, 5, 3, 2]
 class Solution1:
     def countTriplet(self,arr):
@@ -13,7 +13,7 @@ class Solution1:
         for i in arr:
             if i > maxm:
                 maxm = i
-        index_arr = [0]* (maxm*2 +1)
+        index_arr = [0] * (maxm*2 +1)
         for i in arr:
             index_arr[i] = 1
         count = 0

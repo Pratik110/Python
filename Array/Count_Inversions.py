@@ -26,5 +26,6 @@ print("The number of inversions in {} is".format(arr),Solution1().getInvCount(ar
 # Approach 2
 class Solution2:
     def getInvCount(self,arr):
+        pass
         return  count
 print("The number of inversions in {} is".format(arr),Solution2().getInvCount(arr))
