@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cbeb722-ce7f-4609-ad51-f1fba1fdcd4d" name="Default Changelist" comment="Code Complete">
-      <change afterPath="$PROJECT_DIR$/Algorithms/Moore'S_Voting_Algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Majority_Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Merge_Without_Extra_Space.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Missing_Number_In_Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Implementation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Implementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rough_Work/Skeletion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/4_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/Linked_List_Implementation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Gap_Algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Gap_Algorithm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Count_Inversions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Count_Inversions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Count_The_Triplets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Count_The_Triplets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Majority_Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Majority_Element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Implementation" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Longest_Consecutive_Sequence.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +54,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Majority_Element">
+  <component name="RunManager" selected="Python.Linked_List_Implementation">
     <configuration name="Count_The_Triplets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Gap_Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Linked_List_Implementation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -115,7 +109,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/Gap_Algorithm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked List/Linked_List_Implementation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,19 +204,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.Gap_Algorithm" />
       <item itemvalue="Python.Find_The_Duplicate_Number" />
       <item itemvalue="Python.Stock_Buy_Sell" />
       <item itemvalue="Python.Count_The_Triplets" />
       <item itemvalue="Python.Majority_Element" />
+      <item itemvalue="Python.Linked_List_Implementation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Linked_List_Implementation" />
         <item itemvalue="Python.Majority_Element" />
         <item itemvalue="Python.Count_The_Triplets" />
         <item itemvalue="Python.Stock_Buy_Sell" />
         <item itemvalue="Python.Find_The_Duplicate_Number" />
-        <item itemvalue="Python.Gap_Algorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618506965046</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Code Complete">
+      <created>1619491763615</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1619491763615</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

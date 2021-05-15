@@ -6,7 +6,8 @@ Description = "Given an array nums of size n, return the majority element." \
 Example = "Input: nums = [3,2,3]" \
           "Output: 3"
 
-nums = [2,2,1,1,1,2,2]
+nums = [2, 2, 1, 1, 1, 2, 2]
+
 # Approach 1, using a dictionary to store the count of elements, if count greater than l//2 ,then return the element
 class Solution1:
     def majorityElement(self, nums):
@@ -45,10 +46,10 @@ class Solution3:
         l = len(nums)
         count = 0
         for i in range(l):
-            if nums[i] ==  majority_elem:
-                count+=1
+            if nums[i] == majority_elem:
+                count += 1
             else:
-                count-=1
+                count -= 1
             if count == 0:
                 majority_elem = nums[i+1]
         return majority_elem
